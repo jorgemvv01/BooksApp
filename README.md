@@ -2,7 +2,7 @@
 
 A mobile application created with Flutter using the GetX and http packages. The application has a list of books with their respective details, a search engine to consult any book, and a history of recent searches.
 
-The API used to obtain the books information is: ttps://api.itbook.store/
+The API used to obtain the books information is: https://api.itbook.store/
 
 ## Getting Started
 
